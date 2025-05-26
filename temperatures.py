@@ -137,3 +137,10 @@ Températures dépassant 26°C les jours suivants:
 - Vendredi: 32.0°C
 
 Génération du graphique...
+
+
+
+
+
+
+
